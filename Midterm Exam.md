@@ -5,5 +5,5 @@ IF Set 21
 ELSE 
   IF Set 18
   SEND "Perfect"
-  END
-END  
+  END IF
+END IF
